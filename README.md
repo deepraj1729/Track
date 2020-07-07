@@ -1,7 +1,7 @@
 # Track
 Training images of tracks while driving in `Udacity Self-driving simulator`
 
-## Udacity-Self-Driving Simulator
+## Udacity-Self-Driving Car Simulator
 <img src="https://github.com/deepraj1729/Track/blob/master/screens/start_screen.png" width = "700" height = "500">
 
 ## Tarining mode
